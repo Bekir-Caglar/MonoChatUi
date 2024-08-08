@@ -20,3 +20,4 @@ To run the application on iPhone device/simulator:
  - Or use [Kotlin Multiplatform Mobile plugin](https://plugins.jetbrains.com/plugin/14936-kotlin-multiplatform-mobile) for Android Studio
 Run iOS simulator UI tests: `./gradlew :composeApp:iosSimulatorArm64Test`
 
+<img width="394" alt="Screenshot 2024-08-08 at 13 10 52" src="https://github.com/user-attachments/assets/f489f512-0e5f-47e0-bde6-53e1e963aba3">
